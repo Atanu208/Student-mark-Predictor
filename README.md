@@ -40,7 +40,3 @@ Student-Mark-Predictor/
 │── requirements.txt    # Dependencies
 │── README.md           # Project documentation
 ```
-
-## 📖 Documentation
-
-The project is fully documented with dataset details, preprocessing steps, model pipeline, and usage instructions.
